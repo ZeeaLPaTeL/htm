@@ -1,5 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .red{
-    background-color: red;
+    background-color: rgb(225, 22, 211);
     color: white;
     
 }
